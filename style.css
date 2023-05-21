@@ -1,0 +1,34 @@
+/* Estilo adicional */
+.container {
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .deleteBtn {
+    margin-right: 5px;
+  }
+  
+  @media (max-width: 576px) {
+    h1 {
+      font-size: 24px;
+    }
+  
+    form {
+      margin-bottom: 20px;
+    }
+  
+    .table {
+      font-size: 14px;
+    }
+  
+    .btn {
+      font-size: 12px;
+      padding: 5px 10px;
+    }
+  }
+  
